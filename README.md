@@ -1,6 +1,7 @@
 
 ## bootstrap-bower-modal
 
+test3
 This is the bower repository for the modal component of of the [angular-ui/bootstrap project](https://github.com/angular-ui/bootstrap) project.
 
 ### Usage
